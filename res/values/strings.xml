@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RTCapturaSDK</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Configuraciones</string>
+
+    <string name="lbl_catidadpruebas">Cantidad de pruebas:</string>
+    <string name="btn_captura">CAPTURA</string>
+	<string name="btn_captura_i">INICIAR CAPTURA</string>
+	<string name="btn_captura_f">DETENER CAPTURA</string>
+	<string name="lbl_estado">Estado</string>
+
+	<string name="lbl_resultados">RESULTADOS</string>
+	<string name="lbl_tiempo_max">Tiempo Maximo [ms]:</string>
+	<string name="lbl_tiempo_min">Tiempo Minimo [ms]:</string>
+	<string name="lbl_tiempo_promedio">Tiempo Promedio [ms]:</string>
+	<string name="lbl_frames">Frames:</string>
+	<string name="lbl_vacio"></string>
+    
+</resources>

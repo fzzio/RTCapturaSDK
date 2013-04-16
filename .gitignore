@@ -1,0 +1,58 @@
+# Archivos que no van a ser subidos al repositorio
+##################################################
+
+# Archivo de directorio linux
+.directory
+
+# Archivos de aplicacion
+*.apk
+*.ap_
+
+# Archivos de maquina virtual dex VM
+*.dex
+
+# Clases de Java
+*.class
+
+# Carpetas de archivos generados para SDK y NDK
+bin/
+gen/
+libs/
+obj/
+
+# Archivos de configuracion local (ruta del sdk, etc)
+local.properties
+
+# En caso que sea importado para eclipse
+*.pydevproject
+.project
+.metadata
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+target
+*.keystore
+*.orig
+*.log
+seed.txt
+map.txt
+
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
