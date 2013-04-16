@@ -1,9 +1,10 @@
-Proyecto "RealtimeCaptura"
+Proyecto "RTCapturaSDK"
 ================
 
 Proyecto para medir el rendimiento en la adquisición de datos mediante la cámara de un teléfono móvil con sitema Android.
+En este proyecto forma parte de una serie de pruebas en dispositivos Android.
 
-## Dependencias ##
+## Dependencias Generales ##
 Los programas descritos a continuación deben estar instalados y configurados:
 * JDK de Oracle (V. 1.7.0_x) - [Ver info](http://www.oracle.com/technetwork/es/java/javase/downloads/index.html)
 * ANDROID SDK (R. 21.x) - [Ver info](http://developer.android.com/sdk/index.html)
